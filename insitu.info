@@ -26,6 +26,7 @@ dependencies[] = entity
 dependencies[] = googleanalytics
 dependencies[] = features
 dependencies[] = file_styles
+dependencies[] = jplayer
 dependencies[] = l10n_update
 dependencies[] = libraries
 dependencies[] = logintoboggan
