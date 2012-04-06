@@ -6,7 +6,7 @@ api = 2
 ;;;;;;;;;
 
 projects[entityreference][subdir] = contrib
-projects[entityreference][version] = 1.0-beta3
+projects[entityreference][version] = 1.0-rc1
 
 ;;;;;;;;;
 ; Path tools
@@ -23,13 +23,13 @@ projects[redirect][version] = 1.0-beta4
 ;;;;;;;;;
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0-rc1
+projects[ctools][version] = 1.0
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc1
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-beta6
+projects[features][version] = 1.0-rc1
 
 projects[libraries][subdir] = contrib
 projects[libraries][subdir] = contrib
@@ -38,13 +38,13 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][subdir] = contrib
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-beta5
+projects[media][version] = 1.0
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.1
+projects[views][version] = 3.3
 
 projects[strongarm][subdir] = contrib
-projects[strongarm][subdir] = 2.0-beta5
+projects[strongarm][subdir] = 2.0-rc1
 
 projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.0
