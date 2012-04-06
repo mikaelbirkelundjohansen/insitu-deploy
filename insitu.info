@@ -1,6 +1,6 @@
 name = insitu-duo.dk
 description = Install insitu-duo.dk
-version = 0.1
+version = 7.x-0.1
 core = 7.x
 
 dependencies[] = block
@@ -25,7 +25,6 @@ dependencies[] = diff
 dependencies[] = entity
 dependencies[] = googleanalytics
 dependencies[] = features
-dependencies[] = file_styles
 dependencies[] = jplayer
 dependencies[] = l10n_update
 dependencies[] = libraries
@@ -35,8 +34,6 @@ dependencies[] = media
 dependencies[] = media_youtube
 dependencies[] = redirect
 dependencies[] = strongarm
-dependencies[] = styles
-dependencies[] = styles_ui
 dependencies[] = token
 dependencies[] = transliteration
 dependencies[] = views

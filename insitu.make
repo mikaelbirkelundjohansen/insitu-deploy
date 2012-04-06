@@ -11,7 +11,6 @@ projects[entityreference][subdir] = contrib
 ; Path tools
 ;;;;;;;;;
 
-projects[globalredirect][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[redirect][subdir] = contrib
 projects[transliteration][subdir] = contrib
@@ -21,7 +20,6 @@ projects[transliteration][subdir] = contrib
 ;;;;;;;;;
 
 projects[ctools][subdir] = contrib
-projects[devel][subdir] = contrib
 projects[diff][subdir] = contrib
 projects[entity][subdir] = contrib
 projects[features][subdir] = contrib
@@ -36,9 +34,9 @@ projects[media][version] = 1.0-beta5
 projects[media_youtube][subdir] = contrib
 projects[views][subdir] = contrib
 projects[strongarm][subdir] = contrib
-projects[styles][subdir] = contrib
 projects[taxonomy_display][subdir] = contrib
 projects[token][subdir] = contrib
+projects[transliteration][subdir] = contrib
 
 ;;;;;;;;;
 ; Performance
