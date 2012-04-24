@@ -26,10 +26,10 @@ projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.0
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.0-rc1
+projects[entity][version] = 1.0-rc2
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-rc1
+projects[features][version] = 1.0-rc2
 
 projects[libraries][subdir] = contrib
 projects[libraries][subdir] = contrib
