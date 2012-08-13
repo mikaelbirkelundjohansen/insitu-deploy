@@ -6,7 +6,7 @@ api = 2
 ;;;;;;;;;
 
 projects[entityreference][subdir] = contrib
-projects[entityreference][version] = 1.0-rc1
+projects[entityreference][version] = 1.0-rc3
 
 ;;;;;;;;;
 ; Path tools
