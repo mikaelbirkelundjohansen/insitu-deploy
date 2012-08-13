@@ -9,7 +9,6 @@ dependencies[] = contextual
 dependencies[] = dblog
 dependencies[] = field_ui
 dependencies[] = file
-dependencies[] = help
 dependencies[] = image
 dependencies[] = list
 dependencies[] = locale
@@ -22,17 +21,14 @@ dependencies[] = rdf
 
 ; contrib
 dependencies[] = ctools
-dependencies[] = diff
 dependencies[] = entity
 dependencies[] = googleanalytics
 dependencies[] = features
 dependencies[] = jplayer
-dependencies[] = l10n_update
 dependencies[] = libraries
 dependencies[] = logintoboggan
 dependencies[] = metatag
 dependencies[] = media
-dependencies[] = media_youtube
 dependencies[] = redirect
 dependencies[] = strongarm
 dependencies[] = token
