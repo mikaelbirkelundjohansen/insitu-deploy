@@ -23,7 +23,7 @@ projects[redirect][version] = 1.0-beta4
 ;;;;;;;;;
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.1
+projects[ctools][version] = 1.2
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
@@ -41,7 +41,7 @@ projects[media][subdir] = contrib
 projects[media][version] = 1.2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.3
+projects[views][version] = 3.4
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][subdir] = 2.0
