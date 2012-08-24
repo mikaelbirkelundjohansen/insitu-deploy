@@ -16,36 +16,6 @@ function insitu_install() {
     ->condition('name', $theme)
     ->execute();
   variable_set('theme_default', $theme);
-
-  $values = array(
-    array(
-      'module' => 'system',
-      'delta' => 'main',
-      'theme' => $theme,
-      'status' => 1,
-      'weight' => 0,
-      'region' => 'content',
-      'pages' => '',
-      'cache' => -1,
-    ),
-    /*
-    array(
-      'module' => 'system',
-      'delta' => 'main-menu',
-      'theme' => $theme,
-      'status' => 1,
-      'weight' => -10,
-      'region' => 'sidebar_first',
-      'pages' => '',
-      'cache' => -1,
-    ),
-    */
-  );
-  $query = db_insert('block')->fields(array('module', 'delta', 'theme', 'status', 'weight', 'region', 'pages', 'cache'));
-  foreach ($values as $record) {
-    $query->values($record);
-  }
-  $query->execute();
     
   // setting up the editor
   _insitu_configure_wysiwyg();
