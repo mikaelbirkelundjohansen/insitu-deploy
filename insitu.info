@@ -6,6 +6,7 @@ old_short_name = standard
 
 dependencies[] = block
 dependencies[] = contextual
+dependencies[] = comment
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = image
