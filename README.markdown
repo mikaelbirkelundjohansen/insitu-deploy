@@ -1,4 +1,4 @@
-[insitu-duo.dk](http://insitu-duo.dk) [![Build Status](https://secure.travis-ci.org/mikaelbirkelundjohansen/insitu-deploy.png?branch=master)](http://travis-ci.org/mikaelbirkelundjohansen/insitu-deploy)
+[insitu-duo.dk](http://insitu-duo.dk) [![Build Status](https://secure.travis-ci.org/mikaelbirkelundjohansen/insitu-deploy.png?branch=7.x-1.x)](http://travis-ci.org/mikaelbirkelundjohansen/insitu-deploy)
 ==
 
 Instructions on how to build the site from Drupal 7.
