@@ -8,4 +8,4 @@ projects[drupal][version] = 7.16
 projects[insitu][type] = "profile"
 projects[insitu][download][type] = "git"
 projects[insitu][download][url] = "git://github.com/mikaelbirkelundjohansen/insitu-deploy.git"
-projects[insitu][download][branch] = "master"
+projects[insitu][download][branch] = "7.x-1.x"
