@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the In Situ Music feature.
- */
-
-include_once('in_situ_music.features.inc');
