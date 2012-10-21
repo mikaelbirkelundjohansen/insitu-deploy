@@ -110,7 +110,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
 libraries[jplayer][download][type] = "get"
-libraries[jplayer][download][url] = "http://jplayer.org/latest/jQuery.jPlayer.2.1.0.zip"
+libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer.2.2.0.zip"
 libraries[jplayer][directory_name] = "jplayer"
 libraries[jplayer][destination] = "libraries"
 
