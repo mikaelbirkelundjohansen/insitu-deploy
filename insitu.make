@@ -44,7 +44,7 @@ projects[views][subdir] = contrib
 projects[views][version] = 3.5
 
 projects[strongarm][subdir] = contrib
-projects[strongarm][subdir] = 2.0
+projects[strongarm][version] = 2.0
 
 projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.0
