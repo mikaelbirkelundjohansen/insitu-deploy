@@ -6,7 +6,7 @@ api = 2
 ;;;;;;;;;
 
 projects[entityreference][subdir] = contrib
-projects[entityreference][version] = 1.0-rc3
+projects[entityreference][version] = 1.0-rc5
 
 ;;;;;;;;;
 ; Path tools
@@ -41,7 +41,7 @@ projects[media][subdir] = contrib
 projects[media][version] = 1.2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.4
+projects[views][version] = 3.5
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][subdir] = 2.0
@@ -81,7 +81,7 @@ projects[jplayer][version] = 2.0-beta1
 ;;;;;;;;;
 
 projects[wysiwyg][subdir] = contrib
-projects[wysiwyg][version] = 2.1
+projects[wysiwyg][version] = 2.2
 
 ;;;;;;;;;
 ; UI Enhancements
