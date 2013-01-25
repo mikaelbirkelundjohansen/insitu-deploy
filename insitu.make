@@ -2,24 +2,13 @@ core = 7.x
 api = 2
 
 ;;;;;;;;;
-; External dependencies
-;;;;;;;;;
-
-projects[jplayer][subdir] = contrib
-projects[jplayer][version] = 2.0-beta1
-
-;;;;;;;;;
 ; Custom modules
 ;;;;;;;;;
 
-;;;;;;;;;
-; Libraries
-;;;;;;;;;
-
-libraries[jplayer][download][type] = "get"
-libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer.2.2.0.zip"
-libraries[jplayer][directory_name] = "jplayer"
-libraries[jplayer][destination] = "libraries"
+projects[in_situ_music][type] = "module"
+projects[in_situ_music][download][type] = "git"
+projects[in_situ_music][download][url] = "git://github.com/lsolesen/in_situ_music.git"
+projects[in_situ_music][download][branch] = "7.x-1.x"
 
 ;;;;;;;;;
 ; Themes
